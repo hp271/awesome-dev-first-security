@@ -14,7 +14,7 @@ Your [contributions](https://github.com/h-parikh/awesome-dev-first-security/blob
 - [Continuous Security Testing](#continuous-security-testing)
 - [Triage and Prioritizaiton](#triage-and-prioritization)
 - [Remediation Management](#remediation-management)
-- [Metrics and Reporing](#metrics-and-reporting)
+- [Metrics and Reporting](#metrics-and-reporting)
 - [Training](#training)
 
 ![Lifecycle](./img/Lifecycle.png)
