@@ -8,3 +8,6 @@
 Security with a dev-first mindset brings security closer to developers, empowering them to take ownership of security. This democratization of security changes the role of security teams to be an enabler rather than controller, and requires developers to embrace security as a first class citizen.
 
 Your [contributions](https://github.com/h-parikh/awesome-dev-first-security/blob/main/contributing.md/) are always welcome !
+
+# Overview
+![Lifecycle](./img/Lifecycle.png)
