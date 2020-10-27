@@ -9,5 +9,31 @@ Security with a dev-first mindset brings security closer to developers, empoweri
 
 Your [contributions](https://github.com/h-parikh/awesome-dev-first-security/blob/main/contributing.md/) are always welcome !
 
-# Overview
+# Contents
+- [Secure Development]
+- [Continuous Security Testing]
+- [Triage & Prioritizaiton]
+- [Remediation Management]
+- [Metrics & Reporing]
+- [Training]
+
 ![Lifecycle](./img/Lifecycle.png)
+
+## Secure Development
+Resources and checklists that will help implement preventive measures to avoid security issues from being introduced
+
+## Continuous Security Testing
+blah
+
+## Triage & Prioritization
+blah
+
+## Remediation Management
+blah
+
+## Metrics & Reporting
+blah
+
+## Training
+blah
+
