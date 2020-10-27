@@ -53,7 +53,7 @@ This focuses on network vulnerabilities but several concepts can be borrowed in 
 - [Threat Intelligence for Prioritization](https://delvesecurity.com/automating-threat-intel-with-machine-learning-extracting-the-underlying-concepts-from-underground-discussions-and-osint/)
 
 ## Remediation Management
-- Building partnerships and enabling engineers - [Abstract](https://tldrsec.com/blog/appsec-cali-2019/#a-pragmatic-approach-for-internal-security-partnerships/) and [Original Video] (https://www.youtube.com/watch?v=HIdexRqjpWc/)
+- Building partnerships and enabling engineers - [Abstract](https://tldrsec.com/blog/appsec-cali-2019/#a-pragmatic-approach-for-internal-security-partnerships/) and [Original Video](https://www.youtube.com/watch?v=HIdexRqjpWc/)
 - Art of Vulnerability Management - [Abstract](https://tldrsec.com/blog/appsec-cali-2019/#the-art-of-vulnerability-management/) and [Original Video](https://www.youtube.com/watch?v=EkyY1q2-JBI/)
 
 ## Metrics and Reporting
