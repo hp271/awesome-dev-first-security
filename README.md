@@ -30,17 +30,42 @@ Resources and checklists that will help implement preventive measures to avoid s
 
 
 ## Continuous Security Testing
-blah
+- Orchestrate scanners in CI/CD - [ReapSaw](https://github.com/dowjones/reapsaw/) and [Salus](https://github.com/coinbase/salus/)
+- Orchestrate security using AWS step functions - [Slides](https://www.deepsec.net/docs/Slides/2018/Orchestrating_Security_Tooling_With_AWS_Step_Functions_Jules_Denardou_Justin_Massey.pdf/)
+- GitHub app for security feedback in PRs - [GuardRails](https://github.com/apps/guardrails/)
+- Static analysis for Infrastructure as Code - [Checkov](https://github.com/bridgecrewio/checkov/)
+- Open source static analysis tool - [InsiderCLI](https://github.com/insidersec/insider/)
+- [More Scanners](https://github.com/devsecops/awesome-devsecops#automation/)
+- [Awesome BugBounty](https://github.com/djadmin/awesome-bug-bounty/)
+- [Awesome Pen Testing](https://github.com/enaqx/awesome-pentest/)
+- [Awesome Threat Modeling](https://github.com/redshiftzero/awesome-threat-modeling/)
+- [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking/)
+- [Awesome Container Security](https://github.com/kai5263499/awesome-container-security/)
+- [Building a Secure DevOps Pipeline](https://www.youtube.com/watch?v=IAzPKzwY-ks/)
 
 ## Triage and Prioritization
-blah
+- Vulnerability intelligence service to prioritize CVEs - [vFeed](https://vfeed.io/) and [Vuldb](https://vuldb.com/) and [VulnDB](https://vulndb.cyberriskanalytics.com/)
+- Research study for using ML in improving vulnerability identification - [Article](http://asankhaya.github.io/pdf/Effective-Identification-of-Vulnerabilities-using-Machine-Learning.pdf/)
+
+This focuses on network vulnerabilities but several concepts can be borrowed in AppSec world 
+- [Collective intelligence for contextual prioritization](https://delvesecurity.com/contextual-prioritization-score/)
+- [Remediation Prioritization](https://delvesecurity.com/re-defining-vulnerability-remediation-prioritization/)
+- [Threat Intelligence for Prioritization](https://delvesecurity.com/automating-threat-intel-with-machine-learning-extracting-the-underlying-concepts-from-underground-discussions-and-osint/)
 
 ## Remediation Management
-blah
+- Building partnerships and enabling engineers - [Abstract](https://tldrsec.com/blog/appsec-cali-2019/#a-pragmatic-approach-for-internal-security-partnerships/) and [Original Video] (https://www.youtube.com/watch?v=HIdexRqjpWc/)
+- Art of Vulnerability Management - [Abstract](https://tldrsec.com/blog/appsec-cali-2019/#the-art-of-vulnerability-management/) and [Original Video](https://www.youtube.com/watch?v=EkyY1q2-JBI/)
 
 ## Metrics and Reporting
-blah
+- Simple AppSec Metrics - [Abstract](https://tldrsec.com/blog/data-driven-bug-bounty/) and [Original video](https://www.youtube.com/watch?v=2TWY74MgTrc/)
+- More Metrics - [Original Video](https://youtu.be/BxXV1pVSMn0?t=1751/)
+- Vulnerability Aggregation Tool - [DefectDojo](https://github.com/DefectDojo/django-DefectDojo/)
+
 
 ## Training
-blah
+- [Awesome AppSec](https://github.com/paragonie/awesome-appsec/)
+- [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills/)
+- [Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook/)
+- [Awesome CTF](https://github.com/apsdehal/awesome-ctf/)
+
 
