@@ -10,28 +10,35 @@ Security with a dev-first mindset brings security closer to developers, empoweri
 Your [contributions](https://github.com/h-parikh/awesome-dev-first-security/blob/main/contributing.md/) are always welcome !
 
 # Contents
-- [Secure Development]
-- [Continuous Security Testing]
-- [Triage & Prioritizaiton]
-- [Remediation Management]
-- [Metrics & Reporing]
-- [Training]
+- [Secure Development](#secure-development)
+- [Continuous Security Testing](#continuous-security-testing)
+- [Triage and Prioritizaiton](#triage-and-prioritization)
+- [Remediation Management](#remediation-management)
+- [Metrics and Reporing](#metrics-and-reporting)
+- [Training](#training)
 
 ![Lifecycle](./img/Lifecycle.png)
 
 ## Secure Development
-Resources and checklists that will help implement preventive measures to avoid security issues from being introduced
+Resources and checklists that will help implement preventive measures to avoid security issues from being introduced during development.
+- [OWASP ASVS](https://github.com/OWASP/ASVS/)
+- [Mozilla’s Web Security Checklist](https://github.com/mozilla-services/websec-check/)
+- [Test Driven Security in CI](https://www.youtube.com/watch?v=e2axToBYD68/)
+- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist/)
+- [Case studies of successfully eliminating entire classes of vulnerabilities](https://docs.google.com/presentation/d/1neDK74PT-y2zt-nOV0fN80m0TJeoBRp9iVZp8R78Jbg/edit#slide=id.g2baad2bc301217d9_10/)
+- [Making safe coding patterns the default](https://www.slideshare.net/morganroman/banfootguns-devseccon-2019/)
+
 
 ## Continuous Security Testing
 blah
 
-## Triage & Prioritization
+## Triage and Prioritization
 blah
 
 ## Remediation Management
 blah
 
-## Metrics & Reporting
+## Metrics and Reporting
 blah
 
 ## Training
