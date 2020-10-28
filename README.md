@@ -27,6 +27,7 @@ Resources and checklists that will help implement preventive measures to avoid s
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist/)
 - [Case studies of successfully eliminating entire classes of vulnerabilities](https://docs.google.com/presentation/d/1neDK74PT-y2zt-nOV0fN80m0TJeoBRp9iVZp8R78Jbg/edit#slide=id.g2baad2bc301217d9_10/)
 - [Making safe coding patterns the default](https://www.slideshare.net/morganroman/banfootguns-devseccon-2019/)
+- [Serverless security checklist](https://res.cloudinary.com/snyk/raw/upload/v1559295122/Cheat_Sheet-_10_Serverless_Security_Best_Practices.pdf)
 
 
 ## Continuous Security Testing
