@@ -59,6 +59,7 @@ This focuses on network vulnerabilities but several concepts can be borrowed in 
 ## Metrics and Reporting
 - Simple AppSec Metrics - [Abstract](https://tldrsec.com/blog/data-driven-bug-bounty/) and [Original video](https://www.youtube.com/watch?v=2TWY74MgTrc/)
 - More Metrics - [Original Video](https://youtu.be/BxXV1pVSMn0?t=1751/)
+- Actionable Metrics - [Slides](https://published-prd.lanyonevents.com/published/rsaus20/sessionsFiles/18075/2020_USA20_RMG-F02_01_beating-security-inertia-with-actionable-KPIs.pdf/)
 - Vulnerability Aggregation Tool - [DefectDojo](https://github.com/DefectDojo/django-DefectDojo/)
 
 
