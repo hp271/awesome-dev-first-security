@@ -20,7 +20,7 @@ Your [contributions](https://github.com/h-parikh/awesome-dev-first-security/blob
 ![Lifecycle](./img/Lifecycle.png)
 
 ## Secure Development
-Resources and checklists that will help implement preventive measures to avoid security issues from being introduced during development.
+Building security from the beginning is well accepted as the ideal goal, however it is incredibly hard to implement in practice. In a constantly changing landscape of security, it is not practical to expect every single developer to follow security practices all the time. In most organizations, where developers are at varying levels of security skills and have constantly changing priorities, it becomes important to make security simple to follow and difficult to get wrong. This is where checklists come into the picture. Building out well defined, actionable checklists and implementing those checks technically is known to significantly improve the security posture of software being built by developers. Here are a few usable checklists:
 - [OWASP ASVS](https://github.com/OWASP/ASVS/)
 - [Mozilla’s Web Security Checklist](https://github.com/mozilla-services/websec-check/)
 - [Test Driven Security in CI](https://www.youtube.com/watch?v=e2axToBYD68/)
@@ -29,8 +29,10 @@ Resources and checklists that will help implement preventive measures to avoid s
 - [Making safe coding patterns the default](https://www.slideshare.net/morganroman/banfootguns-devseccon-2019/)
 - [Serverless security checklist](https://res.cloudinary.com/snyk/raw/upload/v1559295122/Cheat_Sheet-_10_Serverless_Security_Best_Practices.pdf)
 
+Note: The problem of avoidable failures is not limited to security or development, in fact it is prevalent in almost every organized activity including healthcare, airlines, government etc. An excellent book to read on the importance and impact of checklists is [The Checklist Manifesto](https://amzn.com/0312430000/)
 
 ## Continuous Security Testing
+DevOps practices have introduced continuous integration (CI) which puts focus on continuously testing code during the development process. Security can be made very actionable for developers by making security verification an integral part of development process instead of waiting to test the finished product. Here are a few tools and resources for security testing throughout the development and deployment lifecycle:
 - Orchestrate scanners in CI/CD - [ReapSaw](https://github.com/dowjones/reapsaw/) and [Salus](https://github.com/coinbase/salus/)
 - Orchestrate security using AWS step functions - [Slides](https://www.deepsec.net/docs/Slides/2018/Orchestrating_Security_Tooling_With_AWS_Step_Functions_Jules_Denardou_Justin_Massey.pdf/)
 - GitHub app for security feedback in PRs - [GuardRails](https://github.com/apps/guardrails/)
