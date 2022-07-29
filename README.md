@@ -76,6 +76,7 @@ In security, failures (bugs / defects / vulnerabilibities) are caused by not jus
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf/)
 - [Awesome AppSec](https://github.com/paragonie/awesome-appsec/)
 - [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills/)
+- [SecDim - Learn appsec the fun way](https://secdim.com)
 
 
 
